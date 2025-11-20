@@ -83,7 +83,7 @@ function ProjectsGrid() {
         "Express",
         "MongoDB",
       ],
-      live: "https://anitrack-mshni5jle-goutam-kus-projects.vercel.app/",
+      live: "https://anitrack-liart.vercel.app/browse",
       github: "https://github.com/Goutam-ku/anitrack",
     },
     {
